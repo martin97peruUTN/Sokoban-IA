@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/gm12-sokobansol/!svn/ver/75/Programme/src
+END
+dijsktra.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/gm12-sokobansol/!svn/ver/70/Programme/src/dijsktra.cpp
+END
+SolveurGenetique.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/gm12-sokobansol/!svn/ver/58/Programme/src/SolveurGenetique.h
+END
+Coup.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/gm12-sokobansol/!svn/ver/58/Programme/src/Coup.h
+END
+CritereArretNombreIteration.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/gm12-sokobansol/!svn/ver/58/Programme/src/CritereArretNombreIteration.cpp
+END
+Case.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/gm12-sokobansol/!svn/ver/58/Programme/src/Case.h
+END
+SelecteurElitismeLoterie.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/gm12-sokobansol/!svn/ver/59/Programme/src/SelecteurElitismeLoterie.h
+END
+dijsktra.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/gm12-sokobansol/!svn/ver/58/Programme/src/dijsktra.h
+END
+Evaluateur.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/gm12-sokobansol/!svn/ver/58/Programme/src/Evaluateur.h
+END
+CritereArretNombreIteration.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/gm12-sokobansol/!svn/ver/58/Programme/src/CritereArretNombreIteration.h
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/gm12-sokobansol/!svn/ver/86/Programme/src/main.cpp
+END
+CroiseurMutateur.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/gm12-sokobansol/!svn/ver/58/Programme/src/CroiseurMutateur.h
+END
+SolutionSokobanPousse.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/gm12-sokobansol/!svn/ver/58/Programme/src/SolutionSokobanPousse.cpp
+END
+evaluateurSokobanPousse.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/gm12-sokobansol/!svn/ver/60/Programme/src/evaluateurSokobanPousse.cpp
+END
+SolutionSokoban.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/gm12-sokobansol/!svn/ver/58/Programme/src/SolutionSokoban.cpp
+END
+evaluateurSokoban.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/gm12-sokobansol/!svn/ver/58/Programme/src/evaluateurSokoban.cpp
+END
+IHMSokoban.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/gm12-sokobansol/!svn/ver/60/Programme/src/IHMSokoban.cpp
+END
+SolutionSokobanPousse.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/gm12-sokobansol/!svn/ver/58/Programme/src/SolutionSokobanPousse.h
+END
+SolutionSokoban.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/gm12-sokobansol/!svn/ver/58/Programme/src/SolutionSokoban.h
+END
+evaluateurSokobanPousse.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/gm12-sokobansol/!svn/ver/58/Programme/src/evaluateurSokobanPousse.h
+END
+IHMSokoban.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/gm12-sokobansol/!svn/ver/58/Programme/src/IHMSokoban.h
+END
+evaluateurSokoban.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/gm12-sokobansol/!svn/ver/58/Programme/src/evaluateurSokoban.h
+END
+JeuSokoban.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/gm12-sokobansol/!svn/ver/58/Programme/src/JeuSokoban.cpp
+END
+CroiseurMutateurSokoban.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/gm12-sokobansol/!svn/ver/58/Programme/src/CroiseurMutateurSokoban.h
+END
+JeuSokoban.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/gm12-sokobansol/!svn/ver/58/Programme/src/JeuSokoban.h
+END
+CroiseurMutateurSokobanListe.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/gm12-sokobansol/!svn/ver/75/Programme/src/CroiseurMutateurSokobanListe.h
+END
+CritereArretGenetique.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/gm12-sokobansol/!svn/ver/58/Programme/src/CritereArretGenetique.h
+END
+SelecteurGenetique.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/gm12-sokobansol/!svn/ver/58/Programme/src/SelecteurGenetique.h
+END
